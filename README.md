@@ -14,11 +14,4 @@ Updated all instances of `"/assets"` to `"../assets"`, except in **26_Final/Inst
 
 ---
 
-**Sites**
-[bradhussey.ca](http://www.bradhussey.ca)
-[codecollege.ca](http://www.codecollege.ca)
-[udemy.com/u/bradhussey](https://www.udemy.com/u/bradhussey)
-[youtube.com/hussey17](https://www.youtube.com/hussey17)
-[facebook.com/bradhussey](https://www.facebook.com/bradhussey)
-
-*Copyright 2014 - Brad Hussey*
+*Copyright 2014*
